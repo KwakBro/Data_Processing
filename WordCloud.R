@@ -35,3 +35,4 @@ wordcloud2(data = wordcount, size=1, color = "random-light",
            backgroundColor = "black", ellipticity = 0.3,
            rotateRatio = 0.5, shape = "circle")
 
+ 
