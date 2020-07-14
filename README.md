@@ -11,3 +11,15 @@
     wordcloud2 , KoNLP , dic_user( useNIADic 이용 ) 이용.
 
 -------------------------------------
+
+[과제] 산포도 구현
+---
+![image](https://user-images.githubusercontent.com/68212288/87468427-93f3c380-c654-11ea-8670-35e3e8d12e29.png)  
+
+    다이아몬드 Carrot 과 Price의 상관관계 분석을 위해 Boxplot 이용  
+
+![image](https://user-images.githubusercontent.com/68212288/87468364-73c40480-c654-11ea-9951-ec296dcdd8fb.png)  
+
+    일정 Attribute에 대한 산포도 구현  
+
+-------------------------------------
